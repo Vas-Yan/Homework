@@ -1,0 +1,36 @@
+html
+{
+    background-color: rgb(223, 197, 164);
+  
+}
+
+.container 
+{ 
+    width: 960px; margin:0 auto; 
+}
+
+img
+{
+    width: 19%;
+    height: 19%;
+}
+
+h1
+{
+    color: rgb(8, 14, 14);
+    
+}
+
+h2
+{
+    color: rgb(8, 14, 14);
+    font-size:xx-large;
+    font-style: italic;
+   
+}
+h3
+{
+    color: indigo;
+    font: bold;
+    font-style: italic;
+}
